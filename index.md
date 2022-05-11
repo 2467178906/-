@@ -7,7 +7,7 @@
     <title>小样的期末作业</title>
 <style type="text/css">
     *{padding: 0%;margin: 0%;}
-	body{background: url("期末图片/3.jpg") no-repeat center center fixed;
+	body{background: url("3.jpg/") no-repeat center center fixed;
 		-webkit-background-size: cover;-o-background-size: cover; background-size: cover;}
 /*	图片填充整个界面*/
 
@@ -67,12 +67,12 @@
 	<p class="qm">4、攀登者智慧和汗水，构思着一首信念和意志的长诗。</p><br>
 	<p class="qm">5、勤奋是你生命的密码，能译出你一部壮丽的史诗。</p><br>
 	<p class="qm">6、有时候，坚持了你最不想干的事情之后，会得到你最想要的东西。</p>
-	<audio src="audio/告白气球.mp3"  autoplay="autoplay" >music</audio>
+	<audio src="告白气球.mp3/"  autoplay="autoplay" >music</audio>
 	</span>
 	
 </nav>
 	<span id="sp">
-	<video src="vedio/11.mp4" controls="controls"  autoplay="autoplay" 
+	<video src="11.mp4/" controls="controls"  autoplay="autoplay" 
  loop="loop"  muted="muted" width="650px" height="500px">320的故事</video>
 
 	<p class="sh">你所热爱的就是你的生活</p></span>
